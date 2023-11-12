@@ -2,7 +2,7 @@
 # title: Using a layout
 # layout: CustomLayout
 ---
-# Vuepress
+# Vuepress Docs
 ## Instalation
 1. Install VuePress locally
 ```
