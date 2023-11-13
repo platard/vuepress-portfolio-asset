@@ -22,5 +22,5 @@ export default {
         ],
         logo: '/images/iconmonstr-carousel-filled.svg',
     }),
-    base: '/vuepress-portfolio-asset'
+    // base: '/vuepress-portfolio-asset-test'
 }
